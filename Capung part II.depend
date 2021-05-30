@@ -1,0 +1,36 @@
+# depslib dependency file v1.0
+1495944438 source:c:\pbo\capung part ii\main.cpp
+	<iostream>
+	<graphics.h>
+	<conio.h>
+	<stdlib.h>
+	<windows.h>
+	<mmsystem.h>
+	<time.h>
+
+1493788450 source:c:\pbo\capung part ii\menu game.cpp
+	<iostream>
+	<graphics.h>
+	<conio.h>
+	<stdlib.h>
+	<windows.h>
+	<time.h>
+
+1504433469 source:c:\users\asus-pc\documents\sem 2\pbo\capung part ii\main.cpp
+	<iostream>
+	<graphics.h>
+	<conio.h>
+	<stdlib.h>
+	<windows.h>
+	<mmsystem.h>
+	<time.h>
+
+1504433469 source:c:\users\asus-pc\documents\ya allah\sem 2\pbo\capung part ii\main.cpp
+	<iostream>
+	<graphics.h>
+	<conio.h>
+	<stdlib.h>
+	<windows.h>
+	<mmsystem.h>
+	<time.h>
+
